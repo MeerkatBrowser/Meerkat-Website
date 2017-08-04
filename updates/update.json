@@ -1,0 +1,16 @@
+{
+	"channels": [
+		{
+			"identifier": "beta",
+			"version": "0.9.12",
+			"subVersion":  "",
+			"detailsUrl": "https://sourceforge.net/projects/meerkat-browser/files/qt5/meerkat-browser-beta12/"
+		},
+		{
+			"identifier": "weekly",
+			"version": "0.9.11",
+			"subVersion":  "142",
+			"detailsUrl": "https://sourceforge.net/projects/meerkat-browser/files/qt5/meerkat-browser-weekly142/"
+		}
+	]
+}
